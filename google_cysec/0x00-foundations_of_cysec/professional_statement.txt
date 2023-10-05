@@ -1,24 +1,22 @@
 Professional Statement
 
-- Strengths I am committed to developing:
-1. Strong written and verbal communication
-2. Programming (Python and Structured Query Language)
-3. Time and Stakeholders Management
+==> Proficiencies I am dedicated to cultivating:
+Exceptional written and verbal communication skills.
+Proficiency in programming languages such as Python and Structured Query Language.
+Effective time management and stakeholder coordination.
+
+==> Core Values I uphold and hold dear:
+Adherence to legal and regulatory frameworks.
+Safeguarding organizations, individuals, and communities in a sustainable manner.
 
 
-- Values I have and Cherish:
-1. Adhering to laws
-2. Protecting organizations/people/community (sustainability)
+==> Addressing Key Questions:
+Q. What captivates me about the cybersecurity field?
+A. My aspiration is to make substantial contributions to global security.
 
+Q. Who is the intended audience for my professional statement?
+A. Cybersecurity recruiters and industry professionals.
 
-- Clarifying Questions Answered:
-Q. What most interests me about the field of cybersecurity? 
-A. I want to be a key contributor to the world's security.
-
-Q. Who is the audience for my professional statement?
-A. Cybersecurity recruiters and professionals
-
-Q. In what ways can my strengths, values, and interest in \
-    cybersecurity support the security goals of various organizations?
-A. By being committed to professionalism and security ethics, the security goals of\
-    my organization shall continually be achieved with ease.
+Q. How can my proficiencies, values, and enthusiasm for cybersecurity contribute to various organizations' security objectives?
+A. By embodying unwavering professionalism and upholding security ethics, 
+    I endeavor to facilitate the seamless achievement of my organization's security goals.
